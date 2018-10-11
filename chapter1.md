@@ -58,3 +58,16 @@ The instructions that follow should be in bullet point form with clear guidance 
 # Update this to something more informative.
 success_msg("Some praise! Then reinforce a learning objective from the exercise.")
 ```
+
+---
+
+## Let’s flip a coin with Python
+
+```yaml
+type: VideoExercise
+key: e2c729f9f0
+xp: 50
+```
+
+`@projector_key`
+a36b9a19c33705d756bb505297b68b36
